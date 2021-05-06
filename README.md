@@ -6,10 +6,7 @@ When looking for npm packages to HTML to image the normal size of the package is
 But the size of htmltocanvas package is only 40kb.
 
 # Current Approach
-To solve the size issue mentioned above here I have used only htmltocanvas package and create a htmltoimg js file 
-+-- src
-|   +-- htmltoimg.js
-to export the PNG and JPEG component.
+To solve the size issue mentioned above here I have used only htmltocanvas package and create a htmltoimg js file `src/htmltoimg.js` to export the PNG and JPEG component.
 
 # How to run
 copy paste the code below in the file where you want to create HTML to Image component.
