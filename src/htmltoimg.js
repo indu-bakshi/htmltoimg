@@ -7,13 +7,13 @@ const fileType = {
 };
 
 const DEFAULT_PNG = {
-    fileName: 'component.png',
+    fileName: 'Collage.png',
     type: fileType.PNG,
     html2CanvasOptions: {}
 };
 
 const DEFAULT_JPEG = {
-    fileName:'component.jpg',
+    fileName:'Collage.jpg',
     type: fileType.JPEG,
     html2CanvasOptions: {}
 };
